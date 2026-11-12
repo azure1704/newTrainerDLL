@@ -1,0 +1,6 @@
+/.vs
+/.git
+/Release
+/Debug
+newTrainerDLL.vcxproj.filters
+newTrainerDLL.vcxproj.user
